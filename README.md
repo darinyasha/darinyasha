@@ -8,7 +8,7 @@
 <h5>Interested in WebDev, travel and books </h5>
 Contact: 
  <br/>
-<a href='mailto:dpetukhova.jobs@gmail.com'>📩dpetukhova@gmail.com</a>
+<a href='mailto:dpetukhova.jobs@gmail.com'>📩dpetukhova.jobs@gmail.com</a>
  <br/>
  ☎ +79516682066
 </div>
